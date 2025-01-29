@@ -1,0 +1,20 @@
+.search_bar{
+    display: flex;
+
+    form{
+        display: flex;
+        margin-right: 5px;
+        
+        label{
+            margin-right: 5px;
+        }
+        
+    }
+
+    .btn_search_bar{
+        color: white;
+        background-color: #35EEBF;
+        padding: 1px 5px;
+    }
+
+}

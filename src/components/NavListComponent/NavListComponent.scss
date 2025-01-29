@@ -1,0 +1,16 @@
+.nav_ul{
+    display: flex;
+    margin: 0;
+
+    .nav_li{
+        list-style: none;
+        margin-right: 0.4em;
+        border: 1px solid #9BFF9A;
+        padding: 1px 5px;
+
+        a{
+            color: white;
+            text-decoration: none;
+        }
+    }
+}

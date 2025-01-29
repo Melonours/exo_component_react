@@ -1,0 +1,27 @@
+.card_container{
+    display: flex;
+    margin: 5% 0px;
+
+    .card_img{
+        width: 50%;
+        display: flex;
+        justify-content: center;
+
+        img{
+            height: 200px;
+        }
+    }
+
+    .card_text{
+        width: 50%;
+
+        h1{
+            color: #9BFF9A;
+        }
+
+        p{
+            width: 70%;
+            color: white;
+        }
+    }
+}

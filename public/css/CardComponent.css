@@ -1,0 +1,22 @@
+.card_container {
+  display: flex;
+  margin: 5% 0px;
+}
+.card_container .card_img {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+}
+.card_container .card_img img {
+  height: 200px;
+}
+.card_container .card_text {
+  width: 50%;
+}
+.card_container .card_text h1 {
+  color: #9BFF9A;
+}
+.card_container .card_text p {
+  width: 70%;
+  color: white;
+}/*# sourceMappingURL=CardComponent.css.map */
